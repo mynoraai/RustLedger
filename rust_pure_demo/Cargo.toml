@@ -12,6 +12,7 @@ rand = "0.8"
 sha2 = "0.10"
 base64 = "0.21"
 hex = "0.4"
+eframe = { version = "0.28", default-features = false, features = ["glow"] }
 clap = { version = "4", features = ["derive"] }
 
 [dev-dependencies]

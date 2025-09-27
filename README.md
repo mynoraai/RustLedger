@@ -38,6 +38,16 @@ cargo run -- show
 
 Use `--ledger <path>` to target a different ledger file, and `--timestamp <secs>` if you need deterministic timestamps (for tests or demos).
 
+### Desktop GUI
+
+There is also a lightweight native GUI built with `eframe`:
+
+```bash
+cargo run --bin gui
+```
+
+The window shows the current ledger contents and lets you append new entries by providing a payload and the base64 secret key. Leave the timestamp field blank to use the current wall clock.
+
 ## Ledger File Format
 
 Entries are stored one per line as JSON objects. Each record contains:
