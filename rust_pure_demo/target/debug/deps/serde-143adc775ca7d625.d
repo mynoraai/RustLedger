@@ -1,0 +1,14 @@
+/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/deps/serde-143adc775ca7d625.d: /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/lib.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/integer128.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/mod.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/de.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/ser.rs /Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/build/serde-c595f1b7c2bb186d/out/private.rs
+
+/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/deps/libserde-143adc775ca7d625.rlib: /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/lib.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/integer128.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/mod.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/de.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/ser.rs /Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/build/serde-c595f1b7c2bb186d/out/private.rs
+
+/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/deps/libserde-143adc775ca7d625.rmeta: /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/lib.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/integer128.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/mod.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/de.rs /Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/ser.rs /Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/build/serde-c595f1b7c2bb186d/out/private.rs
+
+/Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/lib.rs:
+/Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/integer128.rs:
+/Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/mod.rs:
+/Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/de.rs:
+/Users/haiyangyu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.227/src/private/ser.rs:
+/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/build/serde-c595f1b7c2bb186d/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/build/serde-c595f1b7c2bb186d/out

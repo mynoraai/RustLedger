@@ -1,0 +1,1 @@
+/Users/haiyangyu/Code/Rust-pure/rust_pure_demo/target/debug/librust_pure_demo.rlib: /Users/haiyangyu/Code/Rust-pure/rust_pure_demo/src/ledger.rs /Users/haiyangyu/Code/Rust-pure/rust_pure_demo/src/lib.rs
